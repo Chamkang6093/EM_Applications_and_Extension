@@ -8,7 +8,7 @@
 * In the part of empirical study, 1min and 30min frequency returns of Apple stock in the dynamic time period of 2020 will be used to fit these three types of model respectively and then the results and conclusion will be shown.
 
 ## Notes
-* Please visit <a href='https://github.com/Chamkang6093/EM_Applications_and_Extension/Data/' target='_blank'>https://github.com/Chamkang6093/EM_Applications_and_Extension/Data/</a> to download the corresponding data used in this project.
+* Please visit <a href='https://github.com/Chamkang6093/EM_Application/tree/main/Data' target='_blank'>https://github.com/Chamkang6093/EM_Application/tree/main/Data</a> to download the corresponding data used in this project.
 * In the code, Python API of PSG was used to convex optimize Gaussian Mixture Model. Please visit <a href='http://aorda.com/index.php/portfolio-safeguard/' target='_blank'>Portfolio Safeguard</a> for more infomation.
 
 ## Main Reference
