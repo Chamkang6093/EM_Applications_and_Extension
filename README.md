@@ -9,7 +9,7 @@
 
 ## Notes
 * Please visit <a href='https://github.com/Chamkang6093/EM_Application/tree/main/Data' target='_blank'>https://github.com/Chamkang6093/EM_Application/tree/main/Data</a> to download the corresponding data used in this project.
-* In the code, Python API of PSG was used to convex optimize Gaussian Mixture Model. Please visit <a href='http://aorda.com/index.php/portfolio-safeguard/' target='_blank'>Portfolio Safeguard</a> for more infomation.
+* Python API of PSG was used to convex optimize Gaussian Mixture Model in the code. Please visit <a href='http://aorda.com/index.php/portfolio-safeguard/' target='_blank'>Portfolio Safeguard</a> for more infomation.
 
 ## Main Reference
 * <a href='http://www.tup.tsinghua.edu.cn/booksCenter/book_08132901.html' target='_blank'>http://www.tup.tsinghua.edu.cn/booksCenter/book_08132901.html</a>
